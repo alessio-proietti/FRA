@@ -1,0 +1,22 @@
+{
+  "name": "fra",
+  "version": "0.0.1",
+  "description": "Fabling Recurrent Automaton",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alessio-proietti/FRA.git"
+  },
+  "author": "alessio.proietti@protonmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alessio-proietti/FRA/issues"
+  },
+  "homepage": "https://github.com/alessio-proietti/FRA#readme",
+  "dependencies": {
+    "telegraf": "^4.4.1"
+  }
+}
